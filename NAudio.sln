@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NAudioDemo", "NAudioDemo\NA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioFileInspector", "AudioFileInspector\AudioFileInspector.csproj", "{D29C1659-635C-497B-847E-FE9A5A69ED03}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NAudioWpfDemo", "NAudioWpfDemo\NAudioWpfDemo.csproj", "{A7B74F85-D353-4ED4-A321-E6E4AD4D7D32}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F91DCE20-90A9-49A8-8773-CACECE651F37}"
 	ProjectSection(SolutionItems) = preProject
 		azure-pipelines.yml = azure-pipelines.yml
@@ -65,8 +63,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{BA7F6DBB-9
 		Docs\WaveFormRendering.md = Docs\WaveFormRendering.md
 		Docs\WaveProviders.md = Docs\WaveProviders.md
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NAudioUniversalDemo", "NAudioUniversalDemo\NAudioUniversalDemo.csproj", "{0BE833CC-8127-4079-BEEC-27397EDA3EDB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NAudio.Asio", "NAudio.Asio\NAudio.Asio.csproj", "{E8981A3A-6851-40EA-96AA-5DDE25DE9618}"
 EndProject
